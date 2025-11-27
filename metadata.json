@@ -1,0 +1,7 @@
+{
+  "name": "Seat Shuffle Challenge",
+  "description": "A gamified classroom seat changing app using camera motion detection. Complete the physical mission to earn your new seat!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
